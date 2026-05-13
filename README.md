@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Ali Hassan 👋
 
-<!--
-**AliHassan-019/AliHassan-019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer focused on IoT systems, PCB design, medical devices, and intelligent automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Areas of Expertise
+
+- Embedded Systems
+- STM32 / ESP32 / nRF
+- PCB Design
+- IoT Development
+- Computer Vision
+- Medical Device Prototyping
+- Motor Control Systems
+
+---
+
+## 🛠 Technologies
+
+### Embedded & Hardware
+STM32 • ESP32 • nRF • Arduino • KiCad • AutoCAD Electrical
+
+### Programming
+C • C++ • Python • Embedded C
+
+### AI & Vision
+OpenCV • YOLO • TensorFlow
+
+---
+
+## 🚀 Featured Projects
+
+### Robotic Skin Tumor Detection System
+AI-powered robotic arm for automated medical inspection and intervention using computer vision.
+
+### Flexural Testing Machine PCB
+Custom PCB and embedded control system for material testing automation.
+
+### ESP32 True Wireless Stereo Earbuds
+Embedded audio system with wireless communication and power optimization.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
+
+---
+⭐ Always exploring embedded intelligence and real-world engineering solutions.
